@@ -30,10 +30,10 @@
         <div class="col-lg-4 col-md-6 footer-widget">
           <h3 class="widget-title">Contact Us</h3>
           <ul class="xs-info-list">
-            <li><i class="fa fa-home"></i>Sector # 48, 123 Street, miosya road VIC 28, Australia.</li>
+            <li><i class="fa fa-home"></i>Kepuh Persada Residence Blok B.6 Karawang, Indonesia.</li>
             <li><i class="fa fa-phone"></i>(800) 123.456.7890 (800) 123.456.7890 +00 99 88 5647</li>
             <li><i class="fa fa-envelope-o"></i><a
-                href="mailto:yourname@domain.com">yourname@domain.com</a></li>
+                href="mailto:yourname@domain.com">cs@erbypeduli.com</a></li>
           </ul><!-- .xs-list-with-icon END -->
         </div>
       </div>

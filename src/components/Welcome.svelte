@@ -1,12 +1,11 @@
 <!-- welcome section -->
 <section class="xs-welcome-slider">
   <div class="">
-    <div class="xs-welcome-content" style="background-image: url(assets/images/slide1.png);">
+    <div class="xs-welcome-content" style="background-image: url(assets/images/hero.jpg);">
       <div class="container">
         <div class="xs-welcome-wraper color-white">
-          <h2>Hunger is stalking the globe</h2>
-          <p>Hundreds of thousands of children experiencing or witnessing assault <br> and other
-            gender-based violence.</p>
+          <h2>Kelaparan mengancam palestina</h2>
+          <p>Ratusan ribu anak disana mengalami bahkan menyaksikan kekerasan dan penyerangan <br> bahkan mereka harus kehilangan tempat tinggal bahkan orang tercinta.</p>
           <a href="#popularcause" class="btn btn-outline-primary">
             View Causes
           </a>
