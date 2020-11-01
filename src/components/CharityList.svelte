@@ -40,6 +40,10 @@
     display: block;
     background-color: rgba(0, 0, 0, 0.5);
   }
+
+  .pledged {
+    margin-right: 2.7em;
+  }
 </style>
 
 <!-- popularCauses section -->
@@ -53,9 +57,8 @@
           raise capital from anyone.</p>
       </div><!-- .xs-heading-title END -->
     </div><!-- .row end -->
-    {#if charities !== undefined}
-    {#each charities as charity}
     <div class="row">
+      {#each charities as charity}
       <div class="col-lg-4 col-md-6">
         {#if isModalOpen === true}
         <Modal>
@@ -136,7 +139,7 @@
             </a>
 
             <ul class="xs-list-with-content">
-              <li>
+              <li class="pledged">
                 {formatCurrency(charity.pledged)}
                 <span>Pledged</span>
               </li>
@@ -180,9 +183,9 @@
           </div><!-- .xs-item-content END -->
         </div><!-- .xs-popular-item END -->
       </div>
+      {/each}
     </div>
-    {/each}
-    {/if}
+    
     <!-- .row end -->
   </div><!-- .container end -->
 </section><!-- End popularCauses section -->
